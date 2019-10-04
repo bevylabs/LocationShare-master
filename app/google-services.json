@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "374896245922",
+    "firebase_url": "https://locationshare-219c9.firebaseio.com",
+    "project_id": "locationshare-219c9",
+    "storage_bucket": "locationshare-219c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374896245922:android:6e52ed48cb68ac13",
+        "android_client_info": {
+          "package_name": "org.bevylabs.locationshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374896245922-h3d119atd0vu8qrdgav3jdm5r9cooper.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.bevylabs.locationshare",
+            "certificate_hash": "c230b7ae1b4aa0fdc4ff018cb8d5bef219f613bf"
+          }
+        },
+        {
+          "client_id": "374896245922-3ejb11n1htnrjcv90ngf9sc8s0pblkhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoryuOOQPfyL0XTHJjJDRJd6ErVSngF74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374896245922-3ejb11n1htnrjcv90ngf9sc8s0pblkhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
