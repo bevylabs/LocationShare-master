@@ -1,38 +1,7 @@
-Location Share
-==============
+User Manual 
 
-A simple Android application that shares your current location.
-
-<a href="https://play.google.com/store/apps/details?id=ca.cmetcalfe.locationshare">
-  <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"
-       alt="Get it on Google Play"
-       height="80"/>
-</a>
-<a href="https://f-droid.org/packages/ca.cmetcalfe.locationshare/">
-  <img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-       alt="Get it on F-Droid"
-       height="80">
-</a>
-
-Location Share doesn't require setting up an account, doesn't track your location in the background,
-doesn't auto-share it, and doesn't send it to anyone except those you explicitly tell it to.
-
-It can share your location using any application that supports sharing plain text. This includes
-(but isn't limited to) sharing via SMS, email, social networks, note taking applications, etc.
-
-Simply launch the application and wait until the device homes in on your location. You'll then have
-the option to view the location on a map, share it, or copy it to the clipboard.
-
-Contributors
-------------
-
-* [FTno](https://github.com/FTno) - Norwegian translation
-* [Heimen Stoffels](https://github.com/Vistaus) - Dutch translation
-* Karen Mondrup - Danish translation
-* [mahula](https://github.com/mahula) - Link type setting, German translation, bug fixes, etc
-* [Pauline Dabrowski](https://www.linkedin.com/in/paulinedabrowski) - French translation
-* [Sabine Finke](https://www.facebook.com/konstglas.sabinefinke/) - Swedish translation
-* Stanimira Penkova - Bulgarian translation
-* [thenhustey](https://github.com/thenhustey) - Czech translation
-* Una Wang - Korean translation
-Thare are some modififications added.
+This application is based on share the user current location and this application is not an offline application So that this application needs to turn on the mobile location navigation and the mobile application should data on mode or mobile phone should be connect to the Wi-Fi network.  
+When open the application user logging view automatically loaded few second ago. Very firsttime beginners have to sign up for user registration. It Contain simple 5 important field to registration purpose (Name, Email, Password, Re-enter password and Mobile number). These all fields are validation according to the user experience. After successful user registration user can logging the application. 
+ After that application window will display the user location via Latitude value and Longitude value. This window provides three options (Share location, Copy Location, View Location). Every option consists of Google Map, Open Street Map, Geo URL. After selection user can share, copy or view the location. 
+ 
+ 
